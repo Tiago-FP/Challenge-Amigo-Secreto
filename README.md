@@ -1,7 +1,8 @@
 <h1 align="center"> CHALLENGE AMIGO SECRETO </h1>
 
-![Badge em Desenvolvimento](<img alt="Static Badge" src="https://img.shields.io/badge/Status%20-%20Finalizado">)
-
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 # :hammer: Funcionalidades do projeto
 
