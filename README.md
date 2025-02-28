@@ -8,3 +8,9 @@
 
 - `Funcionalidade 1`: Adicionar nomes a uma lista para sorteio.
 - `Funcionalidade 2`: Sortear de forma aleatória um nome da lista.
+
+# 📁 Acesso ao projeto
+
+Link: https://tiago-fp.github.io/Challenge-Amigo-Secreto/
+
+Sinta-se a vontade para interagir :)
